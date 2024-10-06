@@ -6,6 +6,8 @@ void bubblesort();
 
 void quicksort();
 
+void mergesort();
+
 
 int main(){
 
