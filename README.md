@@ -1,2 +1,0 @@
-# SonakshiHacktober
-Hacktober2021
